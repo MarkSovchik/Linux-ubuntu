@@ -1,24 +1,14 @@
-## /etc/passwd
+![image](https://github.com/MarkSovchik/Linux-ubuntu/assets/156686594/8af1369d-c18c-4aa1-bb93-cb3831707057)
 
-![alt text](image.png)
+![image](https://github.com/MarkSovchik/Linux-ubuntu/assets/156686594/362ecf64-f633-4873-9c22-6e56d9911a10)
 
-## /etc/group
+![image](https://github.com/MarkSovchik/Linux-ubuntu/assets/156686594/470e11d3-7693-4b0a-a77a-c58715f21d30)
 
-![alt text](image-1.png)
+![image](https://github.com/MarkSovchik/Linux-ubuntu/assets/156686594/ef35ec8f-0b59-4b18-99f7-04e63f7aa197)
 
-## /etc/shadow
+![image](https://github.com/MarkSovchik/Linux-ubuntu/assets/156686594/e31c7c7e-61fd-46d6-9719-b88d0fdf5e0c)
 
-![alt text](image-2.png)
-![alt text](image-6.png)
-
-## Создание пользователя в ручную
-
-![alt text](image-3.png)
-
-## Удаление Petrov
-
-![alt text](image-4.png)
-![alt text](image-5.png)
+![image](https://github.com/MarkSovchik/Linux-ubuntu/assets/156686594/3a16726e-bad7-45af-8e31-2093e8c5260f)
 
 ## Контрольные вопросы
 
